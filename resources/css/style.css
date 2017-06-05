@@ -114,15 +114,14 @@ section3{
   height: 500px;
   width:1100px;
   margin: auto;
-  
+  flex-direction: column;
+
 }
 
 
 .section3-title{
 margin-top: :50px;
-justify-content: center;
-align-items: center;
-justify-content: center;
+
 }
 
 .locations{
